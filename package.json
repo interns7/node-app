@@ -1,0 +1,29 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "ci and cd integration test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/interns7/node-app.git"
+  },
+  "keywords": [
+    "ci",
+    "and",
+    "cd"
+  ],
+  "author": "virendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/interns7/node-app/issues"
+  },
+  "homepage": "https://github.com/interns7/node-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha": "^6.2.1",
+    "supertest": "^4.0.2"
+  }
+}
